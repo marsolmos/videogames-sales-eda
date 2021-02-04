@@ -17,4 +17,4 @@ git clone git@github.com:marsolmos/videogames-sales-eda.git
 
 ## Final Document presented to customer
 
-[Google Slides Presentation](https://docs.google.com/presentation/d/1zhZY6lT74JD5i7evAKo10GaDMDKKvZ2bbbwA6A6SaYM/edit?usp=sharing)
+[Google Slides Presentation](https://docs.google.com/presentation/d/15_GVxc693JreSm0pfxMLyBzzlc0YF5LBi-tV0f_XY-U/edit?usp=sharing)
